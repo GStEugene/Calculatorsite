@@ -4,12 +4,13 @@ body{
   background: hsl(228deg 8% 12%);
 }
 .main {
-  padding: 40vh;
+  padding: 10vh;
   display:flex;
   justify-content: center;
   align-items: center;
 }
 .form {
+  height: 50hw;
   width: 50vw;
   padding: 20px 30px 20px;
   background: hsl(0deg 0% 2%);
